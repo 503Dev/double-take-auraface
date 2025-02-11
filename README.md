@@ -43,6 +43,7 @@ There's a lot of great open source software to perform facial recognition, but e
 - [DeepStack](https://github.com/johnolafenwa/DeepStack)
 - [CodeProject.AI Server](https://www.codeproject.com/AI/docs/index.html)
 - [Facebox](https://machinebox.io)
+- Auraface  **new**
 
 ### Supported NVRs
 
